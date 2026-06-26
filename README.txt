@@ -1,24 +1,9 @@
-PKJV SURVEY TEAM v3.0 - ONE LINK PWA
+PKJV SURVEY TEAM v3.1
 
-Use this version by uploading ALL files in this folder to a web host.
+New:
+- Finger signature pad
+- Signature appears in report
+- Surveyor name field
+- Better one-page PDF-ready layout
 
-Recommended free hosting:
-Netlify Drop
-
-How:
-1. Extract this ZIP.
-2. Open https://app.netlify.com/drop on your laptop browser.
-3. Drag the folder named PKJV_SURVEY_TEAM_V3_0_ONE_LINK_PWA into Netlify Drop.
-4. Netlify gives you a website link.
-5. Send that link through WhatsApp.
-
-iPhone:
-Open the WhatsApp link in Safari.
-Tap Share.
-Tap Add to Home Screen.
-
-Android:
-Open the same link in Chrome.
-Tap Add to Home Screen / Install App.
-
-Do not send index.html as a file to iPhone. It must be opened as a website link.
+Upload/replace these files in GitHub repository and commit changes.
